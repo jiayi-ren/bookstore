@@ -1,3 +1,3 @@
 # Bookstore
 
-# Bookstore database desktop app
+## Bookstore database desktop app
